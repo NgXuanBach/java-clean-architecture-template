@@ -18,6 +18,7 @@ I chose Clean Architecture for this project to solve these core problems:
 ---
 
 ## Architecture Overview
+<img width="772" height="567" alt="image" src="https://github.com/user-attachments/assets/88b6fd6f-149e-4e11-be97-96884a11c0f1" />
 
 This project follows the Dependency Rule: Dependencies only point inwards.
 
