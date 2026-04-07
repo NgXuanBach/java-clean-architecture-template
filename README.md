@@ -65,8 +65,9 @@ This project follows the **Dependency Rule**: *Dependencies only point inwards.*
 3. Run the application:
    mvn spring-boot:run -pl boot-app
 ## 📁 Project Structure
-
+.
 ├── domain          # Pure Business Logic
 ├── application     # Use Cases & Port Interfaces
 ├── infrastructure  # Persistence, External APIs, Adapters
 └── boot-app        # Configuration, Controllers & Application Entry
+
