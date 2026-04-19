@@ -59,7 +59,7 @@ This project follows the Dependency Rule: Dependencies only point inwards.
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/NgXuanBach/](https://github.com/NgXuanBach/java-clean-architecture-template.git
+   git clone https://github.com/NgXuanBach/java-clean-architecture-template.git
 
 2. Build all modules:
    mvn clean install
